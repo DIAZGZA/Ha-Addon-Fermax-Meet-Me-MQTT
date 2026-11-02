@@ -1,0 +1,19 @@
+name: "Fermax Meet Me MQTT"
+version: "1.0.0"
+slug: "fermax_meet_me_mqtt_homeassistant"
+description: "Integracion de Fermax Meet Me con Home Assistant a traves de MQTT"
+arch:
+  - amd64
+  - armv7
+  - aarch64
+init: false
+options:
+  MQTTserver: "192.168.1.50"
+  MQTTuser: "user"
+  MQTTpass: "pass"
+schema:
+  MQTTserver: str
+  MQTTuser: str
+  MQTTpass: str
+ports:
+  9800/tcp: 9800
