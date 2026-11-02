@@ -7,9 +7,7 @@ La forma más rápida y sencilla de instalar este complemento es utilizando el b
 
 [![Abrir Home Assistant](https://home-assistant.io)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FDIAZGZA%2FHa-Addon-Fermax-Meet-Me-MQTT)
 
-https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FDIAZGZA%2FHa-Addon-Fermax-Meet-Me-MQTT
-[![Añadir repositorio a Home Assistant](https://home-assistant.io)](https://home-assistant.io)
-https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FDIAZGZA%2FHa-Addon-Fermax-Meet-Me-MQTT
+
 ### Método manual
 
 Si prefieres realizar la instalación de forma manual, sigue estos pasos:
